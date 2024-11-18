@@ -1,1 +1,7 @@
-# Master_Thesis
+# Master Thesis
+
+-- English version below
+
+Willkommen zu meinem Repository! Hier findest du meine Master Thesis über die Erweiterung des IT-Grundschutz Vorgehens mit Enterprise Security Architecture Fähigkeiten, die ich im Rahmen meines Studiums an der Universität für Weiterbildung Krems erstellt habe. Diese Arbeit widmet sich der Frage, auf welche Weise die IT-Grundschutz-Methodik mit der SABSA-Methodik zu einer ganzheitlichen Sicherheitsarchitektur kombiniert werden kann. Dazu werden verschiedene Konzepte erörtert, die neue Perspektiven für die Konzeption der Informationssicherheit aufzeigen. Diese Perspektiven gehen über die Grenzen der herkömmlichen Ansätze hinaus und zielen darauf ab, Organisationen dabei zu unterstützen, die Sicherheit ganzheitlich, transparent und zukunftsorientiert zu etablieren.
+
+Welcome to my repository! Here you can find my master thesis on the extension of the IT baseline protection (IT-Grundschutz) approach with Enterprise Security Architecture capabilities, which I wrote as part of my studies at the University for Continuing Education Krems. This thesis is dedicated to the question of how the IT-Grundschutz methodology can be combined with the SABSA methodology to create a holistic security architecture. To this end, various concepts are discussed that reveal new perspectives for the conception of information security. These perspectives go beyond the limits of conventional approaches and aim to support organizations in establishing security in a holistic, transparent and future-oriented manner.
